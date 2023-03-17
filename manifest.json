@@ -1,0 +1,16 @@
+{
+  "name": "YouTube Home Page Blocker",
+  "version": "1.3",
+  "manifest_version": 2,
+  "description": "Blocks the YouTube home page",
+  "permissions": ["https://www.youtube.com/", "tabs"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "icons": {
+    "16": "icons/icons16.png",
+    "48": "icons/icons48.png",
+    "128": "icons/icons32.png"
+  }
+}

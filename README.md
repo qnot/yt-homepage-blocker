@@ -1,2 +1,2 @@
 # yt-homepage-blocker
-Chrome extension for Youtube Homepage redirect 
+Chrome extension for Youtube Homepage redirection
